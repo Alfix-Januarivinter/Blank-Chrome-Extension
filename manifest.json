@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Extension",
+    "version": "1.0",
+    "description": "A blank Chrome extension to develop",
+    "permissions": [],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }  
